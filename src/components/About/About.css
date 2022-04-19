@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Rubik+Wet+Paint&display=swap");
+.about-head {
+  background-image: url(./../../images/about-banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.6;
+  background-size: cover;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+.about-section {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: right;
+  background-color: #F2F5F9;
+  font-family:  "Roboto Mono", monospace;
+}
+.mission-vision {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.mission-content,
+.vision-content {
+  border: 1px solid gainsboro;
+  margin-right: 5px;
+  border-radius: 10px;
+}
+.mission-head,
+.vision-head {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}

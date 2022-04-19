@@ -1,0 +1,797 @@
+[
+  {
+    "id": 1,
+    "name": "Cisco CCNA 200-301",
+    "detail": "If you want to jumpstart your career in IT and networking by acing the Cisco Certified Network Associate CCNA exam, then this course is for you! It gives you a full understanding of all the concepts and topics you need to earn the most in-demand networking certification today by passing the Cisco CCNA 200-301 exam.(The CCNA 200-301 is the current CCNA exam and replacement for the CCNA 200-125 which was retired in February 2020.)",
+    "outcome": [
+      "Get what you need to pass the up-to-date Cisco CCNA 200-301 exam",
+      "Develop skills to work on enterprise production networks",
+      "Explore how routing and switching technologies work in real world environments",
+      "Learn how internet works",
+      "Gain hands-on Cisco CCNA configuration and troubleshooting experience through practice labs"
+    ],
+    "audience": [
+      "Anyone who wants to pass the Cisco CCNA 200-301 exam and start or improve a career in networking",
+      "IT helpdesk engineers who are interested in careers such as network engineers, network administrators, systems administrators, or solution architects. This course can help start your career journey into these fields",
+      "Network engineers who are not Cisco CCNA certified or who have an expired certification. Even if you’re an experienced professional, you’ll fill gaps in your knowledge and master concepts like IPv6, EIGRP, and OSPF in this course",
+      "IT professionals who want a comprehensive resource on Cisco networking theory, configuration and troubleshooting",
+      "Anyone who wants to pass the Cisco CCNA 200-301 exam and start or improve a career in networking"
+    ],
+    "requirement": [
+      "You’ll need basic knowledge of how to operate a computer and browse the Internet; that’s it!",
+      "Absolute beginners to networking are welcome. I start with beginner level networking and explain every single acronym and concept you need to pass the exam"
+    ],
+    "duration": 40,
+    "classes": 15,
+    "hour": 3,
+    "month": 3,
+    "price": 20000,
+    "vendorFee": 300,
+    "type": "Online/Offline",
+    "modules": 15,
+    "rating": 4.8,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/ccna.png",
+    "instructor": {
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "title": "Network Engineer",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/john.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "CCNP ENCOR (350-401) Master Class",
+    "detail": "Cisco’s ENCOR exam acts as the core exam for the CCNP Enterprise certification, and it also acts as the written exam for the CCIE Enterprise Infrastructure certification. This specific ENCOR course is a bit unique, because it’s the replay of a live and online course of over 100 students. So, you get that feel of being in a classroom environment and learning, not just from the instructor, but also from student questions and discussions.",
+    "outcome": [
+      "This course is designed to fully prepare you for Cisco’s ENCOR (350-401) exam",
+      "Virtualization",
+      "Infrastructure technologiesVirtualization",
+      "Network management",
+      "Network automation",
+      "Network security",
+      "Exam preparation strategies"
+    ],
+    "audience": [
+      "Cisco CCNP Enterprise certification candidates",
+      "Cisco CCIE Enterprise Infrastructure certification candidates",
+      "IT pros desiring to update their skills",
+      "Current CCNP certified students that want to re-certify"
+    ],
+    "requirement": [
+      "Although there is no prerequisite for taking the ENCOR exam, it is recommended that you have a foundational understanding of basic networking concepts",
+      "Network simulator, emulator, or physical equipment for lab practice (optional)"
+    ],
+    "duration": 30,
+    "classes": 15,
+    "hour": 2,
+    "month": 2.5,
+    "price": 30000,
+    "vendorFee": 500,
+    "type": "Offline",
+    "modules": 12,
+    "rating": 4.6,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/ccnp.png",
+    "instructor": {
+      "name": "Jake Doe",
+      "email": "jakedoe@gmail.com",
+      "title": "Network Administrator",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/jake.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Linux Command Line Basics",
+    "detail": "An operating system is a soul and mind for computers and all modern computing devices. It is a software that manages all of the hardware resources associated with your desktop or laptop. In other words, the operating system manages the communication between your software and your hardware. Linux is so ubiquitous that it is present in cell phones, cars, refrigerators, and Roku devices. It runs most of the Internet and several supercomputers. In fact, stock exchanges across the world in several countries run on Linux. Linux became the platform to run desktops, servers, and embedded systems across the globe as it is one of the most reliable, secure, and robust operating systems available.",
+    "outcome": [
+      "Realize the potential of the Linux command line",
+      "Explain the Linux Filesystem hierarchy",
+      "Create hard and soft links",
+      "Create,view and manipulate files",
+      "Find help while using the Linux command line",
+      "Navigating the Linux Filesystem",
+      "Use different Linux text editors (nano,gedit)"
+    ],
+    "audience": [
+      "Anyone who wants to get started with Linux",
+      "Existing Linux users or learners who wants to be effective at using the Linux command Line",
+      "Windows or mac users who wants to migrate to Linux but are afraid to make the move!",
+      "Aspiring Linux system administrators"
+    ],
+    "requirement": [
+      "A desire to learn Linux",
+      "Any Linux distribution installed on your computer ( even on a virtual machine)"
+    ],
+    "duration": 10,
+    "classes": 8,
+    "hour": 1.5,
+    "month": 1,
+    "price": 2000,
+    "vendorFee": 100,
+    "type": "Online",
+    "modules": 5,
+    "rating": 4.2,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/cli.png",
+    "instructor": {
+      "name": "Janelia Johnson",
+      "email": "janelia@gmail.com",
+      "title": "System Administrator",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/janelia.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Linux System Administration",
+    "detail": "Linux is a major strength in computing technology. Most of the webserver, mobile phones, personal computers, supercomputers, and cloud-servers are powered by Linux. The job of a Linux systems administrator is to manage the operations of a computer system like maintain, enhance, create user account/report, taking backups using Linux tools and command-line interface tools. Most computing devices are powered by Linux because of its high stability, high security, and open-source environment",
+    "outcome": [
+      "You will learn 200+ Linux system administration commands",
+      "You will gain advance Linux systems administration skills and have deep understanding of Linux fundamentals and concepts",
+      "You will manage Linux servers in a corporate environment",
+      "CentOS and Redhat version 7 and 8",
+      "You will be able to troubleshoot everyday Linux related issues",
+      "You will write basic to advance level shell scripts",
+      "You will be able to take the EX-200 exam and become Redhat Certified System Administrator (RHCSA - EX200)"
+    ],
+    "audience": [
+      "Anyone with a desire to learn about Linux or Linux system administration",
+      "People that have Linux experience, but would like to learn about the Linux command line interface",
+      "Existing Linux users that want to become power users",
+      "People that need Linux knowledge for a personal or business project like hosting a website on a Linux server",
+      "Professionals that need to learn Linux to become more effective at work. Helpdesk staff, application support engineers, and application developers that are required to use, manage, or support the Linux operating system",
+      "People thinking about a career as a Linux system administrator or engineer",
+      "Researchers, college professors, and college students that will be using Linux servers to conduct research or complete course work"
+    ],
+    "requirement": ["A basic understanding of the Linux operating system"],
+    "duration": 60,
+    "classes": 25,
+    "hour": 2,
+    "month": 3,
+    "price": 25000,
+    "vendorFee": 350,
+    "type": "Online",
+    "modules": 21,
+    "rating": 4.9,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/linux-administration.png",
+    "instructor": {
+      "name": "Scharlet Johnson",
+      "email": "scarlet@gmail.com",
+      "title": "System Engineer",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/scharlet.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ubuntu Linux Server Administration",
+    "detail": "Ubuntu Linux is consistently among the top 5 Linux Desktop and Server distributions. Learn the basics of the Linux Command Line and Server Administration in this course. You will learn enough to comfortably manage your own server by the end of this course. Updated for Ubuntu 20.04, the latest Long Term Support (LTS) version. Once you understand Linux, you understand the operating system that powers much of the Internet. This beginner level course will take you from knowing nothing about Linux to competency",
+    "outcome": [
+      "You will learn what Linux is",
+      "Working at the command line and why the Command Line Interface is so simple yet powerful",
+      "Securing your server, ufw, apt update and upgrade",
+      "Installing and securing nginx web server",
+      "How to use the Linux file system",
+      "Configuring and securing remote access with SSH",
+      "Stopping bad guys with Fail2ban",
+      "Managing users and groups"
+    ],
+    "audience": [
+      "You are interested in learning Linux",
+      "You have little to no experience with Linux",
+      "You want to learn how Linux may fit into your life and work",
+      "You want to become comfortable with the power and flexibility Linux offers",
+      "You want to expand your career options by understanding Ubuntu Linux Server"
+    ],
+    "requirement": [
+      "You should have access to a Microsoft Windows, MAC OS X, or Linux computer",
+      "Some computer understanding, such as basic keyboard use, what a Hard Drive is, and what RAM (memory) is",
+      "You do NOT need an extra computer to load Ubuntu on to take this course"
+    ],
+    "duration": 15.5,
+    "classes": 16,
+    "hour": 1,
+    "month": 2,
+    "price": 15000,
+    "vendorFee": 150,
+    "type": "Offline",
+    "modules": 8,
+    "rating": 3.7,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/ubuntu-server.png",
+    "instructor": {
+      "name": "Jason Cena",
+      "email": "jcena@gmail.com",
+      "title": "Server Administrator",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/jason.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Cyber Security Course : Hackers Exposed!",
+    "detail": "Learn a practical skill-set in defeating all online threats, including - advanced hackers, trackers, malware, zero days, exploit kits, cybercriminals and more. Become a Cyber Security Specialist - Go from a beginner to advanced in this easy to follow expert course.   Covering all major platforms - Windows 7, Windows 8, Windows 10, MacOS and Linux. This course covers the fundamental building blocks of your required skill set - You will understand the threat and vulnerability landscape through threat modeling and risk assessments.",
+    "outcome": [
+      "An advanced practical skillset in defeating all online threats - advanced hackers, trackers, malware and all Internet nastiness including mitigating government spying and mass surveillance",
+      "Start a career in cyber security. Become a cyber security specialist",
+      "The very latest up-to-date information and methods",
+      "We cover operating system security, privacy, and patching - On Windows 7, Windows 8, Windows 10, MacOS and Linux.",
+      "Explore the threat landscape - Darknets, dark markets, zero day vulnerabilities, exploit kits, malware, phishing and much more",
+      "Go in-depth into security through physical and virtual isolation and compartmentalization. Covering sandboxes, application isolation, virtual machines, Whonix and Qubes OS",
+      "You will learn about nation state secret tracking and hacking infrastructure",
+      "A certificate of completion is available signed by the instructor Nathan House so CPE credits can be claimed. An off-site sign-up is required to provide your details for this optional certificate"
+    ],
+    "audience": [
+      "This course is for anyone who wants to become an expert in security, privacy, and anonymity. This volume covers the required foundation building blocks of that skillset",
+      "For anyone who would love to gain a practical skillset in mitigating the risk from, malware, Trojans, hackers, tracker, cyber criminals and all online threats",
+      "This course is for anyone who wants to keep their precious files, emails, accounts and personal information out of the hands of the bad guys",
+      "For beginners and intermediate Internet users who are interested in security, safety, and privacy",
+      "This course is designed for personal and home Internet security, privacy, and anonymity. Most of the topics apply in the same way to a business, but the course is delivered as if to an individual for personal Internet security, privacy and anonymity"
+    ],
+    "requirement": [
+      "A basic understanding of using operating systems, networks, and the Internet. Be able to download and install software. A willingness to learn",
+      "Please note this is Volume 1 of 4 of the complete course. After the completion of all 4 volumes, you will know more than 80% of security professionals, government and law enforcement agents and even expert hackers about maintaining security, privacy, and anonymity"
+    ],
+    "duration": 12,
+    "classes": 12,
+    "hour": 1,
+    "month": 1.5,
+    "price": 35000,
+    "vendorFee": 850,
+    "type": "Offline",
+    "modules": 12,
+    "rating": 4,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/cyber-security.png",
+    "instructor": {
+      "name": "Nathan House",
+      "email": "nathan@gmail.com",
+      "title": "Cyber Security Expert",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/nathan.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "IT Networking Fundamentals: Full Course",
+    "detail": "This course focuses on deeply understanding the Fundamentals of Networking in the I.T. sector and how networking devices and services work in real-world scenarios. Even if you have no clue about networks, this course will provide all the starting knowledge you need to understand how networking devices work, how networks communicate, how they are managed, and much more.",
+    "outcome": [
+      "IT Networking Fundamentals",
+      "What are Networks and how they work",
+      "Network Addresses and their concept",
+      "Protocols governing the Network",
+      "The Networking Models - OSI & IP",
+      "Virtual Networks and Subnets",
+      "Port Addressing and measures of Port Security",
+      "How services of the Internet works - DHCP, DNS & NAT",
+      "Making your own Virtual Home Lab",
+      "Wireless Networking and it's security"
+    ],
+    "audience": [
+      "This course is for anyone willing to get started with the fundamentals of Networking in IT",
+      "This course is for anyone trying to upgrade their knowledge in the networking sector",
+      "This course is for anyone who is wishing to start a sound career in networking and its services"
+    ],
+    "requirement": [
+      "A Laptop or PC with an internet connection",
+      "Your chosen device must be capable of running virtual machines on it",
+      "I'll walk you through, step-by-step, if anything need to be installed"
+    ],
+    "duration": 5.5,
+    "classes": 8,
+    "hour": 1,
+    "month": 1,
+    "price": 10000,
+    "vendorFee": 250,
+    "type": "Online",
+    "modules": 5,
+    "rating": 3.2,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/it-networking.png",
+    "instructor": {
+      "name": "Mohammad Rafique",
+      "email": "mrafique@gmail.com",
+      "title": "Web Developer & Network Enthusiast",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/mohammad.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "CompTIA A+ Certification (220-1001) Course",
+    "detail": "This is the first of a two-course series and is designed to prepare you to take and pass the CompTIA A+ 2019 Core 1 (220-1001) exam. It's an internationally-recognized, fundamental IT training certification. Not interested in certification? No problem! Even if you just want to learn about the basics of IT and computers, I've got you covered.",
+    "outcome": [
+      "How to pass the CompTIA A+ Certification Core 1 (220-1001) exam",
+      "The skills to be a great IT and computer tech",
+      "How to repair and configure mobile devices",
+      "How to set up and configure basic networks",
+      "All about hardware: monitors, CPUs, motherboards, hard drives, RAM, and more",
+      "How to build everything from a basic workstation to an awesome gaming system",
+      "Understand what the cloud is and how virtualization works",
+      "How to troubleshoot hardware and network issues"
+    ],
+    "audience": [
+      "Anyone looking to take and pass the CompTIA A+ Certification Core 1 (220-1001) Certification exam",
+      "Anyone who wants to improve their skills as a computer or IT technician",
+      "Anyone who wants to learn awesome stuff about PCs, Macs, mobile devices, networking, the cloud, IT security and more"
+    ],
+    "requirement": [
+      "There are no specific prerequisites as the course covers all the topics in detail.",
+      "A basic familiarity with computers and networks is helpful.",
+      "CompTIA recommends having 9-12 months of on-the-job experience before taking the A+ exam. This is recommended but not required"
+    ],
+    "duration": 20,
+    "classes": 20,
+    "hour": 1,
+    "month": 1.5,
+    "price": 22000,
+    "vendorFee": 232,
+    "type": "Offline",
+    "modules": 12,
+    "rating": 4.1,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/comptia.png",
+    "instructor": {
+      "name": "Mike Mayers",
+      "email": "mayers@gmail.com",
+      "title": "IT Certification Professionals",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/mike.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "DevOps Beginners to Advanced",
+    "detail": "Decoding DevOps course is for anybody who wants to get started with DevOps. As there are many tools & technologies in DevOps, it has become difficult for people to choose the right technologies. This course starts from very basics of command line, hands on demonstrations of many tools & technologies. Also most importantly it will show you how various technologies in DevOps work together by setting up your own projects",
+    "outcome": [
+      "Learn DevOps from total scratch",
+      "Understand how various technologies work together in DevOps",
+      "Linux, AWS, Bash & Python Scripting, Jenkins, Ansible, Docker, Kubernetes, Cloudformation, Terraform & More",
+      "Get a firm understanding in DevOps Processes, Tools & Technologies"
+    ],
+    "audience": ["Anybody who wants to Learn DevOps"],
+    "requirement": ["Basic Computer Knowledge"],
+    "duration": 45.5,
+    "classes": 24,
+    "hour": 2,
+    "month": 2,
+    "price": 30000,
+    "vendorFee": 750,
+    "type": "Offline",
+    "modules": 18,
+    "rating": 4.5,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/devops.png",
+    "instructor": {
+      "name": "Imran Ali",
+      "email": "imranali@gmail.com",
+      "title": "DevOps Engineer",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/imran.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Docker, Kubernetes, Terraform and Azure DevOps",
+    "detail": "DevOps is all about People, Process, and Tools. In this course, you will understand the basics of DevOps and learn to do DevOps with Docker, Kubernetes, Ansible, Terraform, Azure DevOps, and Jenkins. You will learn to implement DevOps with Continuous Integration, Continuous Delivery, and Infrastructure as Code. You will play with 3 different clouds - AWS, Azure and Google Cloud",
+    "outcome": [
+      "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansible",
+      "LEARN DEVOPS fundamentals - CI, CD and IAAC",
+      "LEARN DEVOPS from ZERO - No experience required",
+      "BUILD END to END DevOps PIPELINES"
+    ],
+    "audience": [
+      "You are a beginner to DevOps",
+      "You are a programmer wanting to explore DevOps with Docker, Kubernetes and Azure DevOps"
+    ],
+    "requirement": [
+      "You have an attitude to learn while having fun :)",
+      "ZERO knowledge of DEVOPS is expected!",
+      "We will help you install tools and create AWS, Azure DevOps and Google Cloud Accounts",
+      "EKS is NOT part of AWS free tier. Be careful not to run the EKS clusters for long time"
+    ],
+    "duration": 21,
+    "classes": 12,
+    "hour": 2,
+    "month": 1.5,
+    "price": 12000,
+    "vendorFee": 175,
+    "type": "Online",
+    "modules": 9,
+    "rating": 3.9,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/docker-kubernate.png",
+    "instructor": {
+      "name": "Julies Ferer",
+      "email": "julise@gmail.com",
+      "title": "DevOps Professinals",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/julies.png"
+    }
+  },
+  {
+    "id": 11,
+    "name": "AWS Certified DevOps Course",
+    "detail": "Welcome to the BEST and MOST UPDATED online resource to learn the skills needed to pass the challenging certification: AWS Certified DevOps Engineer Professional (DOP-C01). You hold at least an associate-level certification in AWS (AWS Certified Developer Associate is preferred).You have experience using AWS at your work. This course is entirely hands-on to provide you with the experience needed to understand, analyze and solve the questions asked at the AWS Certified DevOps Engineer Professional exam. As such, I will not be covering the basics, and I will be going rather fast through concepts you should already know.",
+    "outcome": [
+      "Pass the AWS Certified DevOps Engineer Professional Certification (DOP-C01)",
+      "Create automations between all the various AWS services",
+      "All Hands-On advanced course to provide you the experience needed to pass the exam",
+      "Perform operations that will teach you real-world skills",
+      "Learn DevOps on AWS by doing",
+      "All slides available as a downloadable PDF"
+    ],
+    "audience": [
+      "Experienced AWS cloud engineers looking to pass the AWS Certified DevOps Engineer Professional certification (DOP-C01)",
+      "Experienced AWS cloud engineers looking to learn advanced automations and features on the AWS cloud"
+    ],
+    "requirement": [
+      "At least an associate certification such as AWS Certified Developer",
+      "AWS Certified Developer & AWS Certified SysOps recommended",
+      "One year of experience in AWS preferred, two years optimal"
+    ],
+    "duration": 20.5,
+    "classes": 12,
+    "hour": 2,
+    "month": 3,
+    "price": 28000,
+    "vendorFee": 600,
+    "type": "Offline",
+    "modules": 11,
+    "rating": 4.3,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/aws.png",
+    "instructor": {
+      "name": "Stephen Mark",
+      "email": "smark@gmail.com",
+      "title": "AWS Certified Cloud Practitioner",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/stephen.png"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Docker with Kubernetes +Swarm",
+    "detail": "This course is designed to be fast at getting you started but also get you deep into the why of things. Simply the fastest and best way to learn the latest container skills. Look at the scope of topics in the Session and see the breadth of skills you will learn. Also included are Slack and Discord servers with 50k students for getting help with this course and continuing your Docker and DevOps learning with help from myself and other students.",
+    "outcome": [
+      "How to use Docker, Compose and Kubernetes on your machine for better software building and testing",
+      "Learn Docker and Kubernetes official tools from an award-winning Docker Captain!",
+      "Gain the skills to build development environments with your code running in containers",
+      "Build Swarm and Kubernetes clusters for server deployments!",
+      "Hand's-on with best practices for making Dockerfiles and Compose files like a Pro!",
+      "Create your own custom image registry to store your apps and deploy in corporate environments",
+      "Build and publish your own custom images"
+    ],
+    "audience": [
+      "Software developers, sysadmins, IT pros, and operators at any skill level",
+      "Anyone who makes, deploys, or operates software on servers"
+    ],
+    "requirement": [
+      "No paid software required - Just install your favorite text editor and browser!",
+      "Local admin access to install Docker for Mac/Windows/Linux",
+      "Understand terminal or command prompt basics",
+      "Linux basics like shells, SSH, and package managers. (tips included to help newcomers!)",
+      "Know the basics of creating a server in the cloud (on any provider). (tips included to help newcomers!)",
+      "Understand the basics of web and database servers. (how they typically communicate, IP's, ports, etc.)",
+      "Have a GitHub and Docker Hub account"
+    ],
+    "duration": 19,
+    "classes": 15,
+    "hour": 1.5,
+    "month": 2,
+    "price": 20000,
+    "vendorFee": 220,
+    "type": "Online",
+    "modules": 9,
+    "rating": 3,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/docker-swarm.png",
+    "instructor": {
+      "name": "Beth Fisher",
+      "email": "fisher@gmail.com",
+      "title": "DevOps Sysadmin",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/beth.png"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Getting Started with Arduino",
+    "detail": "In making this course, I emphasized the importance of getting the basics right and learning to mastery. As an educator for over 15 years, I know first-hand that hitting a roadblock because you lack the fundamental knowledge to progress can be demotivating. In Arduino Step by Step Getting Started, I make sure that in the more than 16 hours of video content, mini projects and quizzes, we cover all the basics so that you can enjoy learning about the Arduino.",
+    "outcome": [
+      "Build simple circuits around the Arduino Uno, that implement simple functions",
+      "Understand what is the Arduino",
+      "Understand what is prototyping",
+      "Understand analog and digital inputs and outputs",
+      "Understand the ways by which the Arduino can communicate with other devices",
+      "be productive with the Arduino IDE, write, compile and upload sketches, install libraries",
+      "Understand what is Arduino programming, it's basic concepts, structures, and keywords",
+      "Measure temperature, humidity and acceleration",
+      "Measure the distance between the sensor and an object in front of it",
+      "Detect a person entering a room",
+      "Display text on a liquid crystal display"
+    ],
+    "audience": [
+      "Students over 10 years of age, or younger with with adult supervision. Young students should be supervised at all times when using a soldering iron",
+      "Students with a little or no prior experience with electronics or programming"
+    ],
+    "requirement": [
+      "A Windows, Mac or Linux computer",
+      "An Arduino Uno",
+      "Electronics parts like resistors, LEDs, sensors, as listed in Section 1 of the course",
+      "Essential tools: a mini breadboard, jumper wires, a multimeter, a soldering iron and solder, wire cutter",
+      "Be excited about electronics!"
+    ],
+    "duration": 17,
+    "classes": 12,
+    "hour": 1.5,
+    "month": 3,
+    "price": 18000,
+    "vendorFee": 400,
+    "type": "Online",
+    "modules": 18,
+    "rating": 4.6,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/arduino.png",
+    "instructor": {
+      "name": "Peter Parker",
+      "email": "peter@gmail.com",
+      "title": "Educator and Author",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/peter.png"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Raspberry Pi For Beginners Complete Course",
+    "detail": "This complete hands-on, step by step course is targeting the latest version of Raspberry Pi, which is the Raspberry Pi 4. Note that everything also works perfectly for Raspberry Pi 2 and 3 versions. You don’t need any knowledge in programming, electronics, or anything else. To get started, you just need a computer to work from, and a Raspberry Pi board. At the end of the course you will have a strong foundation with your Raspberry Pi, and you will be able to start your own projects in no time.",
+    "outcome": [
+      "Master your Raspberry Pi, starting from scratch",
+      "Build a complete surveillance and alarm project with Raspberry Pi",
+      "Learn Python3 from zero, step by step",
+      "Install the latest version of Raspberry Pi OS on your Raspberry Pi 4 (also works on 2 and 3)",
+      "Use the Raspberry Pi’s GPIOs to control hardware components",
+      "Create a web server on your Raspberry Pi",
+      "Learn how to use the terminal to get more control over your Pi",
+      "Take pictures and videos with the Raspberry Pi camera V2",
+      "Learn how to be more independent when working on your future projects",
+      "Get more practice with hands-on lessons, 11 activities and a final project"
+    ],
+    "audience": [
+      "Students, Engineers, Researchers, Teachers, Developers, Hobbyists",
+      "Anyone wanting to learn how to get started with Raspberry Pi and build amazing projects",
+      "Anyone wanting to really understand what they’re doing with Raspberry Pi, Python3, and the different components you can use with the board",
+      "People who want to start robotics projects, home automation, web servers, IoT projects, etc., with their Raspberry Pi",
+      "Raspberry Pi users who feel stuck in their projects and want to get more autonomous"
+    ],
+    "requirement": [
+      "A computer + a Raspberry Pi 4 (also works with Raspberry 2 and 3)",
+      "A list of hardware components (provided in a free preview lecture at the beginning). You can still start the course without those components",
+      "NO external monitor or keyboard required",
+      "NO programming, Unix, or hardware experience required",
+      "A will to learn and to progress with the Raspberry Pi"
+    ],
+    "duration": 10,
+    "classes": 10,
+    "hour": 1,
+    "month": 1.5,
+    "price": 5000,
+    "vendorFee": 200,
+    "type": "Online/Offline",
+    "modules": 5,
+    "rating": 4.3,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/pi.png",
+    "instructor": {
+      "name": "Edward Renard",
+      "email": "renard@gmail.com",
+      "title": "Software engineer and entrepreneur",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/edward.png"
+    }
+  },
+  {
+    "id": 15,
+    "name": "A Complete Course on an IOT system",
+    "detail": "This is a complete hands-on course on design and development of an IOT system from scratch.  The major components (or modules) of an IOT system are a smart device, MQTT broker, cloud server, a web server with user interface through Google Home or Alexa.  In this course, the students will learn to design and develop every component of an IOT system.  They will learn how to design the hardware of an IOT smart device, learn how to develop the firmware using Arduino IDE.  Then they will learn installing a cloud server and configuring it.  Then, they will learn installing an MQTT broker in the cloud server, as well as installing a Django web server.  They will then learn writing publish/subscribe programs for MQTT as well as web server so that users can activate any port of a smart device by clicking appropriate buttons on the browser of a remote computer.  They will, then learn about linking the Google Home console server with their cloud server.  They will learn how to write the needed programs for their web server to handle account linking and action fulfillment.  At the completion of this step, they will be able to activate any port of their device by voice command on Google Home on their smart phone.",
+    "outcome": [
+      "Learn how to design the hardware of an IOT device with an ESP8266 microcontroller",
+      "Learn how to develop firmware of an IOT device using Arduino IDE",
+      "Learn how to build your own cloud server for IOT systems",
+      "Learn how to install an MQTT broker (mosquitto) on your cloud server",
+      "Learn how to write programs for MQTT publish/subscribe for cloud server as well as the device",
+      "Learn how to build a Django web server with SSL certificate and encryption to communicate with device",
+      "Learn how to link your cloud server with Google Home action console",
+      "Learn how to write programs for the endpoints for Google Home account linking and action fulfillment"
+    ],
+    "audience": [
+      "DYI enthusiasts, Entrepreneurs, Engineers, Developers, Professionals, College and school students and anyone with an interest to learn IOT"
+    ],
+    "requirement": [
+      "It will help if you have some background in electronics and basic programming principles. In addition, this being a hands-on course, you need the following additional components to complete this course",
+      "Development board - Either a nodeMCU development board and a relay or a fully integrated one from WiFiSecureAccess",
+      "DHT11 temperature/Humidity sensor",
+      "HC-SR501 motion sensor (3.3V) & Micro USB cable",
+      "An electrical load such as a Table Lamp or Fan or anything similar for testing",
+      "A breadboard, if you are using nodeMCU development board"
+    ],
+    "duration": 8,
+    "classes": 8,
+    "hour": 1,
+    "month": 1,
+    "price": 8000,
+    "vendorFee": 450,
+    "type": "Online",
+    "modules": 12,
+    "rating": 3.7,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/iot.png",
+    "instructor": {
+      "name": "Raman Roy",
+      "email": "ramanroy@gmail.com",
+      "title": "Ex Professor, IIT, Bomaby",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/raman.png"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Robotics, learn by building",
+    "detail": "You can open all kinds of doors for advancement in so many careers with a basic understanding of electronics. Think of all of the fields and hobbies that involve electronics to some degree! This 'Robotics: Learn by building' series of courses focuses on robotics - which itself is a very diverse field that has application in everything from industry, manufacturing, laboratory work, or military, even in home automation.",
+    "outcome": [
+      "develop and build analog electronics circuits",
+      "you will build multiple circuits from sound buzzers to bionics where we actually control a servo motor by reading signals from your muscles"
+    ],
+    "audience": [
+      "Intended for beginners and those with some experience in electronics and hobby robotics"
+    ],
+    "requirement": [
+      "Basic math skills, as well as some basic tools and electronic parts (parts & tools list is in the first lesson)"
+    ],
+    "duration": 10.5,
+    "classes": 10,
+    "hour": 1,
+    "month": 1.5,
+    "price": 7000,
+    "vendorFee": 700,
+    "type": "Online",
+    "modules": 4,
+    "rating": 3.5,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/robotics.png",
+    "instructor": {
+      "name": "Ian Botham",
+      "email": "ianbotham@gmail.com",
+      "title": "Robotics engineer",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/ian.png"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Arduino Programming with Tinkercad",
+    "detail": "In this course, we'll learn electrical engineering basics and important computer science topics. For that, we will use Tinkercad – the joyful programming and electronics simulator tool designed by Autodesk. I will teach you how to program the Arduino, how to use sensors, electric motors and all the way to creating real-life electronic circuits. We'll learn by actually practicing and analyzing real applications. But what’s truly special and valuable in this course is that the lessons are carefully designed to target specific programming and electronics concepts without getting into boring or complex details.",
+    "outcome": [
+      "Code - one of the most necessary skills to learn",
+      "Build electronic circuits from Scratch",
+      "Block-based programming which is very useful for beginners",
+      "Control Input/Output components using Arduino",
+      "Computer science concepts by intuitively applying them in real-life electronic circuits",
+      "Write programs to control LEDs, sensors and electric motors"
+    ],
+    "audience": [
+      "For kids 8 and up (learn on your own), for teachers, or for parents working with children ages 6-14",
+      "Perfect for homeschooling parents or K-12 parents and teachers who would like to give their students the most fun experience by introducing robotics, programming and electronics",
+      "Absolute beginners in programming and computer science",
+      "Anyone curious about electronics and programming",
+      "This course is not for experienced Arduino coders, unless you want to code with your kids"
+    ],
+    "requirement": ["No prior programming knowledge is required"],
+    "duration": 8,
+    "classes": 5,
+    "hour": 2,
+    "month": 1,
+    "price": 4000,
+    "vendorFee": 200,
+    "type": "Offline",
+    "modules": 2,
+    "rating": 4.1,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/arduino-tinkercad.png",
+    "instructor": {
+      "name": "Rosie Hess",
+      "email": "rosie@gmail.com",
+      "title": "Robotics engineer",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/rosie.png"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Scratch Programming for Kids",
+    "detail": "In this course, we'll learn to code, starting from the basic blocks. No kidding! Scratch, the programming language we use (developed by MIT), is so fun that it makes programming seem like a game. We'll learn by doing. The course is designed so that you create the games and applications with your own two hands. But what makes this course truly unique is the teaching method I've used live for almost 4 years. We learn a variety of computer science topics, but we hide the complexity behind characters, animations, analogies and fun! That's because, in these carefully designed lessons, we train our intuition to make sense of what we want to achieve and how to get there. This will help you quickly master the basics. After this course, you'll learn text-based programming languages at a blazing speed and quickly make sense of any piece of code.",
+    "outcome": [
+      "Create smart and fun games",
+      "Create animations and cool visual effects",
+      "Code - one of the most important skills to learn!",
+      "Understand complex computer science concepts by intuitively applying them in games",
+      "Learn text-based programming languages 2x - 10x faster"
+    ],
+    "audience": [
+      "Children (from 7-8 years)",
+      "Absolute beginners in programming and computer science"
+    ],
+    "requirement": ["No prior programming knowledge is required"],
+    "duration": 8,
+    "classes": 8,
+    "hour": 1,
+    "month": 2,
+    "price": 3000,
+    "vendorFee": 75,
+    "type": "Online",
+    "modules": 4,
+    "rating": 4.7,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/scratch.png",
+    "instructor": {
+      "name": "Daniel Scott",
+      "email": "danielscott@gmail.com",
+      "title": "Software Engineer & Best-Selling Instructor",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/daniel.png"
+    }
+  },
+  {
+    "id": 19,
+    "name": "REST API Testing Course",
+    "detail": "RESTful APIs (or simply REST API) are everywhere nowadays but at the same time they are getting more complex to get started with: different HTTP methods,, headers, cookies, dealing with file uploads or authentication with api keys, tokens, OAuth and so much more.But before you start investing time writing code to retrieve the data the API is offering, why not test the request first to make sure everything is working as expected? This is where the Postman App comes in! Postman allows you very quickly create a request with the required HTTP method and parameters, submit the request and easily inspect the results.",
+    "outcome": [
+      "Create GET, POST, PUT, DELETE request",
+      "Understand GET vs POST request method",
+      "Work with real-world APIs (Github API, Trello API)",
+      "JavaScript basics for tests",
+      "Write API tests in Postman",
+      "Use data from Excel files (CSV) or JSON",
+      "Run API tests with Newman in Jenkins, GitLab CI or TeamCity",
+      "Use OAuth2, API keys, tokens, JWT, basic auth"
+    ],
+    "audience": [
+      "This course is targeted towards testing engineers and developers"
+    ],
+    "requirement": [
+      "Basic programming and/or JavaScript knowledge is required (needed for writing tests)",
+      "Basic HTTP knowledge required (address, message body, headers, cookies, ...)",
+      "Basic knowledge about RESTful APIs and JSON",
+      "Basic Jenkins experience, if an integration with Jenkins is desired",
+      "Basic NodeJS/NPM experience (needed for test automation)",
+      "Optional - Basic Docker experience (for Jenkins or Newman)",
+      "A computer with Windows, macOS or Linux is required for viewing the lectures and installing Postman. Using a mobile phone/tablet is not recommended",
+      "Registering to a few reputable public APIs is required for you to be able to follow along with the course"
+    ],
+    "duration": 25,
+    "classes": 24,
+    "hour": 1,
+    "month": 3,
+    "price": 28000,
+    "vendorFee": 650,
+    "type": "Offline",
+    "modules": 17,
+    "rating": 3.9,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/api.png",
+    "instructor": {
+      "name": "Valentin Kespa",
+      "email": "valentin@gmail.com",
+      "title": "Agile Software Developer",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/valentin.png"
+    }
+  },
+  {
+    "id": 20,
+    "name": "The Git & Github Complete Course",
+    "detail": "The following sentence is annoying, but also true: the best time to learn Git was yesterday. Fortunately, the second best time is today!  Git is an essential tool for work in any code-related field, from data science to game development to machine learning.  This course covers everything you need to know to start using Git and Github in the real-world today!We start off with Git Essentials.  The goal of this unit is to give you all the essential Git tools you need for daily use.  We start off talking about version control software, what it is, why it matters, and the history of Git.  Then we install Git and run through the Unix commands you'll need to work with Git (you can skip this if you're already familiar).  The bulk of this unit is focused on teaching the core Git mechanics like committing and branching and the associated concepts: the working directory, the repository, the staging area, etc.    We cover Git commands including: git init, git add, git commit, git status, git log, git branch, and git merge.  We end with a detailed look at branching, merging, and resolving conflicts.",
+    "outcome": [
+      "Understand how Git works behind the scenes",
+      "Explain the difference Git objects: trees, blobs, commits, and annotated tags",
+      "Master the essential Git workflow: adding & committing",
+      "Perform Git merges and resolve merge conflicts",
+      "Master Git stashing",
+      "Master collaboration workflows: pull requests, 'fork & clone', etc.",
+      "Squash, clean up, and rewrite history using interactive rebase",
+      "Write custom and powerful Git aliases",
+      "Host static websites using Github Pages",
+      "Create markdown READMEs",
+      "Share code and snippets using Github Gists"
+    ],
+    "audience": [
+      "Anyone interested in learning Git in any capacity :)",
+      "Anyone learning to code or hoping to enter a tech field",
+      "Web developers, data scientists, software engineers, mobile developers, game developers, etc.",
+      "Anyone who works with code or in a code-adjacent role"
+    ],
+    "requirement": ["Basic computer skills"],
+    "duration": 16,
+    "classes": 16,
+    "hour": 1,
+    "month": 2,
+    "price": 5000,
+    "vendorFee": 55,
+    "type": "Online",
+    "modules": 8,
+    "rating": 4.4,
+    "banner": "https://raw.githubusercontent.com/Monmoy042/net-course-banners/main/github.png",
+    "instructor": {
+      "name": "Colt Stele",
+      "email": "cstelle@gmail.com",
+      "title": "Developer and Bootcamp Instructor",
+      "image": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/colt.png"
+    }
+  }
+]

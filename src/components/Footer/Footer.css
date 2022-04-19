@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Rubik+Wet+Paint&display=swap");
+.footer-bg{
+  background-color: #E6EDF3;
+  border-radius: 10px;
+}
+.bg-margin{
+  margin-top: 20px;
+}
+.footer-logo {
+  height: 100px;
+  width: 100px;
+  display: block;
+  margin: auto;
+}
+.text {
+  font-family: "Roboto Mono", monospace;
+}
+.btn-size {
+  width: 160px;
+  margin-bottom: 10px;
+}
+.button-text {
+  text-decoration: none;
+  color: black;
+  font-family: "Roboto Mono", monospace;
+}
+.copyright-text {
+  margin-top: 10px;
+  border-top: 2px solid gray;
+  border-radius: 0px;
+}
